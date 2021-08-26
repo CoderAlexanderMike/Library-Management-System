@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MiniLibrary" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MiniLibrary" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../MiniLibrary" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MiniLibrary" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../MiniLibrary" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BL_AdminManagementBL.h" />
+		<Unit filename="BL_CatalogueManagementBL.h" />
+		<Unit filename="BL_LoginManagementBL.h" />
+		<Unit filename="BL_ReaderManagementBL.h" />
+		<Unit filename="BL_RentalManagementBL.h" />
+		<Unit filename="BL_RouteBL.h" />
+		<Unit filename="BL_RuleManagementBL.h" />
+		<Unit filename="Model_LoginModel.h" />
+		<Unit filename="Model_RouteModel.h" />
+		<Unit filename="Share_BL.h" />
+		<Unit filename="Share_ErrorString.h" />
+		<Unit filename="Share_FunctionName.h" />
+		<Unit filename="Share_RouteKey.h" />
+		<Unit filename="UI_AdminManagementUI.h" />
+		<Unit filename="UI_CatalogueManagementUI.h" />
+		<Unit filename="UI_HomeScreenUI.h" />
+		<Unit filename="UI_LoginManagementUI.h" />
+		<Unit filename="UI_ReaderManagementUI.h" />
+		<Unit filename="UI_RentalManagementUI.h" />
+		<Unit filename="UI_RuleManagementUI.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BL_AdminManagementBL.cpp" />
+		<Unit filename="src/BL_CatalogueManagementBL.cpp" />
+		<Unit filename="src/BL_LoginManagementBL.cpp" />
+		<Unit filename="src/BL_ReaderManagementBL.cpp" />
+		<Unit filename="src/BL_RentalManagementBL.cpp" />
+		<Unit filename="src/BL_RouteBL.cpp" />
+		<Unit filename="src/BL_RuleManagementBL.cpp" />
+		<Unit filename="src/Model_LoginModel.cpp" />
+		<Unit filename="src/Model_RouteModel.cpp" />
+		<Unit filename="src/Share_BL.cpp" />
+		<Unit filename="src/Share_ErrorString.cpp" />
+		<Unit filename="src/Share_FunctionName.cpp" />
+		<Unit filename="src/Share_RouteKey.cpp" />
+		<Unit filename="src/UI_AdminManagementUI.cpp" />
+		<Unit filename="src/UI_CatalogueManagementUI.cpp" />
+		<Unit filename="src/UI_HomeScreenUI.cpp" />
+		<Unit filename="src/UI_LoginManagementUI.cpp" />
+		<Unit filename="src/UI_ReaderManagementUI.cpp" />
+		<Unit filename="src/UI_RentalManagementUI.cpp" />
+		<Unit filename="src/UI_RuleManagementUI.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

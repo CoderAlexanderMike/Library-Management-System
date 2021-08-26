@@ -1,0 +1,302 @@
+# depslib dependency file v1.0
+1629474541 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\main.cpp
+	<iostream>
+	<stdlib.h>
+	"UI_LoginManagementUI.h"
+	"UI_HomeScreenUI.h"
+	"BL_RouteBL.h"
+	"Share_FunctionName.h"
+	"Share_BL.h"
+
+1629209305 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\model_loginmodel.cpp
+	"Model_LoginModel.h"
+
+1629210348 c:\users\moe khat nwel\desktop\file\library\minilibrary\model_loginmodel.h
+	<iostream>
+
+1629209224 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\model_routemodel.cpp
+	"Model_RouteModel.h"
+
+1629293465 c:\users\moe khat nwel\desktop\file\library\minilibrary\model_routemodel.h
+	<iostream>
+
+1629209080 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\share_errorstring.cpp
+	"Share_ErrorString.h"
+
+1629469328 c:\users\moe khat nwel\desktop\file\library\minilibrary\share_errorstring.h
+	<iostream>
+
+1629292455 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_loginmanagementui.h
+	<iostream>
+	"Share_FunctionName.h"
+	"Share_ErrorString.h"
+	"Model_LoginModel.h"
+	"BL_LoginManagementBL.h"
+
+1629477233 c:\users\moe khat nwel\desktop\file\library\minilibrary\share_functionname.h
+	<iostream>
+
+1629293334 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_loginmanagementbl.h
+	<iostream>
+
+1629208908 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\share_functionname.cpp
+	"Share_FunctionName.h"
+
+1629208565 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\share_routekey.cpp
+	"Share_RouteKey.h"
+
+1629293835 c:\users\moe khat nwel\desktop\file\library\minilibrary\share_routekey.h
+	<iostream>
+
+1629292445 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_loginmanagementui.cpp
+	"UI_LoginManagementUI.h"
+
+1629293301 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_loginmanagementbl.cpp
+	<iostream>
+	"BL_LoginManagementBL.h"
+
+1629475450 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_homescreenui.cpp
+	"UI_HomeScreenUI.h"
+
+1629475794 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_homescreenui.h
+	<iostream>
+	<stdlib.h>
+	"Share_FunctionName.h"
+	"Share_RouteKey.h"
+	"Share_BL.h"
+	"Share_ErrorString.h"
+	"Model_RouteModel.h"
+	"BL_RouteBL.h"
+
+1629477324 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_adminmanagementui.cpp
+	"UI_AdminManagementUI.h"
+
+1629477279 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_adminmanagementui.h
+	<iostream>
+	"Share_FunctionName.h"
+
+1629477773 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_routebl.cpp
+	"BL_RouteBL.h"
+
+1629476646 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_routebl.h
+	"Share_RouteKey.h"
+	"Share_ErrorString.h"
+	"UI_AdminManagementUI.h"
+	"UI_ReaderManagementUI.h"
+	"UI_CatalogueManagementUI.h"
+	"UI_RentalManagementUI.h"
+	"UI_RuleManagementUI.h"
+	"UI_LoginManagementUI.h"
+	"Share_FunctionName.h"
+	"Share_BL.h"
+	<iostream>
+
+1629477568 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_readermanagementui.h
+	<iostream>
+
+1629466585 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_readermanagementbl.cpp
+	"BL_ReaderManagementBL.h"
+
+1629466728 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_readermanagementbl.h
+
+1629477605 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_readermanagementui.cpp
+	"UI_ReaderManagementUI.h"
+
+1629477645 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_cataloguemanagementui.h
+	<iostream>
+
+1629477673 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_rentalmanagementui.h
+	<iostream>
+
+1629477688 c:\users\moe khat nwel\desktop\file\library\minilibrary\ui_rulemanagementui.h
+	<iostream>
+
+1629467220 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_cataloguemanagementbl.cpp
+	"BL_CatalogueManagementBL.h"
+
+1629467220 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_cataloguemanagementbl.h
+
+1629467532 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_rentalmanagementbl.cpp
+	"BL_RentalManagementBL.h"
+
+1629467767 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_rentalmanagementbl.h
+	<iostream>
+
+1629477636 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_cataloguemanagementui.cpp
+	"UI_CatalogueManagementUI.h"
+
+1629477662 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_rentalmanagementui.cpp
+	"UI_RentalManagementUI.h"
+
+1629477714 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\ui_rulemanagementui.cpp
+	"UI_RuleManagementUI.h"
+
+1629472232 source:c:\users\moe khat nwel\desktop\file\library\minilibrary\src\bl_rulemanagementbl.cpp
+	"BL_RuleManagementBL.h"
+
+1629472587 c:\users\moe khat nwel\desktop\file\library\minilibrary\bl_rulemanagementbl.h
+	<iostream>
+
+1629477509 c:\users\moe khat nwel\desktop\file\library\minilibrary\share_bl.h
+	<iostream>
+	<stdlib.h>
+
+1629715868 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\main.cpp
+	<iostream>
+	<stdlib.h>
+	"UI_LoginManagementUI.h"
+	"UI_AdminManagementUI.h"
+	"UI_HomeScreenUI.h"
+	"BL_RouteBL.h"
+	"Share_FunctionName.h"
+	"Share_BL.h"
+	"BL_AdminManagementBL.h"
+	"BL_ReaderManagementBL.h"
+
+1629292455 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_loginmanagementui.h
+	<iostream>
+	"Share_FunctionName.h"
+	"Share_ErrorString.h"
+	"Model_LoginModel.h"
+	"BL_LoginManagementBL.h"
+
+1629717809 d:\myprogramming\c++\projects\sayaprj\minilibrary\share_functionname.h
+	<iostream>
+
+1629469328 d:\myprogramming\c++\projects\sayaprj\minilibrary\share_errorstring.h
+	<iostream>
+
+1629210348 d:\myprogramming\c++\projects\sayaprj\minilibrary\model_loginmodel.h
+	<iostream>
+
+1629293334 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_loginmanagementbl.h
+	<iostream>
+
+1629475794 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_homescreenui.h
+	<iostream>
+	<stdlib.h>
+	"Share_FunctionName.h"
+	"Share_RouteKey.h"
+	"Share_BL.h"
+	"Share_ErrorString.h"
+	"Model_RouteModel.h"
+	"BL_RouteBL.h"
+
+1629293835 d:\myprogramming\c++\projects\sayaprj\minilibrary\share_routekey.h
+	<iostream>
+
+1629477509 d:\myprogramming\c++\projects\sayaprj\minilibrary\share_bl.h
+	<iostream>
+	<stdlib.h>
+
+1629293465 d:\myprogramming\c++\projects\sayaprj\minilibrary\model_routemodel.h
+	<iostream>
+
+1629725283 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_routebl.h
+	"Share_RouteKey.h"
+	"Share_ErrorString.h"
+	"UI_AdminManagementUI.h"
+	"UI_ReaderManagementUI.h"
+	"UI_CatalogueManagementUI.h"
+	"UI_RentalManagementUI.h"
+	"UI_RuleManagementUI.h"
+	"UI_LoginManagementUI.h"
+	"Share_FunctionName.h"
+	"Share_BL.h"
+	"Model_RouteModel.h"
+	"BL_AdminManagementBL.h"
+	<iostream>
+
+1629477279 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_adminmanagementui.h
+	<iostream>
+	"Share_FunctionName.h"
+
+1629717252 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_readermanagementui.h
+	<iostream>
+	<stdlib.h>
+	"Share_FunctionName.h"
+	"Model_RouteModel.h"
+	"Share_BL.h"
+
+1629477645 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_cataloguemanagementui.h
+	<iostream>
+
+1629477673 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_rentalmanagementui.h
+	<iostream>
+
+1629477688 d:\myprogramming\c++\projects\sayaprj\minilibrary\ui_rulemanagementui.h
+	<iostream>
+
+1629467220 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_cataloguemanagementbl.cpp
+	"BL_CatalogueManagementBL.h"
+
+1629467220 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_cataloguemanagementbl.h
+
+1629293301 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_loginmanagementbl.cpp
+	<iostream>
+	"BL_LoginManagementBL.h"
+
+1629466585 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_readermanagementbl.cpp
+	"BL_ReaderManagementBL.h"
+
+1629466728 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_readermanagementbl.h
+
+1629467532 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_rentalmanagementbl.cpp
+	"BL_RentalManagementBL.h"
+
+1629467767 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_rentalmanagementbl.h
+	<iostream>
+
+1629717440 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_routebl.cpp
+	"BL_RouteBL.h"
+
+1629472232 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_rulemanagementbl.cpp
+	"BL_RuleManagementBL.h"
+
+1629472587 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_rulemanagementbl.h
+	<iostream>
+
+1629209305 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\model_loginmodel.cpp
+	"Model_LoginModel.h"
+
+1629209224 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\model_routemodel.cpp
+	"Model_RouteModel.h"
+
+1629477798 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\share_bl.cpp
+	"Share_BL.h"
+
+1629209080 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\share_errorstring.cpp
+	"Share_ErrorString.h"
+
+1629717519 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\share_functionname.cpp
+	"Share_FunctionName.h"
+
+1629208565 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\share_routekey.cpp
+	"Share_RouteKey.h"
+
+1629477324 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_adminmanagementui.cpp
+	"UI_AdminManagementUI.h"
+
+1629477636 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_cataloguemanagementui.cpp
+	"UI_CatalogueManagementUI.h"
+
+1629475450 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_homescreenui.cpp
+	"UI_HomeScreenUI.h"
+
+1629292445 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_loginmanagementui.cpp
+	"UI_LoginManagementUI.h"
+
+1629717292 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_readermanagementui.cpp
+	"UI_ReaderManagementUI.h"
+
+1629477662 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_rentalmanagementui.cpp
+	"UI_RentalManagementUI.h"
+
+1629477714 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\ui_rulemanagementui.cpp
+	"UI_RuleManagementUI.h"
+
+1629717201 d:\myprogramming\c++\projects\sayaprj\minilibrary\bl_adminmanagementbl.h
+
+1629717201 source:d:\myprogramming\c++\projects\sayaprj\minilibrary\src\bl_adminmanagementbl.cpp
+	"BL_AdminManagementBL.h"
+
